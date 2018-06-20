@@ -2,14 +2,11 @@
 This code fix the error when suitecrm has a lot of pdfs in the list
 tutorial:
 1 - Add this code inside of detailviewdefs.php in module that u need to fix:<br>
-<p>'includes' =>
+'includes' =>
                 array (
                     0 =>
                     array (
                         'file' => 'custom/scripts/fixerrorscreen.js',
-                    )
-					
-					
-					
+                    )			
                 ),
 2 - Add fixerrorscreen.js in your custom/scripts
