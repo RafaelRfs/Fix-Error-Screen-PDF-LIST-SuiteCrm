@@ -11,5 +11,5 @@ tutorial:
 					
 					
 					
-                ),</p>
+                ),
 2 - Add fixerrorscreen.js in your custom/scripts
